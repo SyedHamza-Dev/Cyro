@@ -13,6 +13,7 @@ import cam2 from "@/assets/cam2.jpg";
 import cam3 from "@/assets/cam3.jpg";
 import cam4 from "@/assets/cam4.jpg";
 
+//Cameras
 const cameras = [
   { 
     id: 1, 
